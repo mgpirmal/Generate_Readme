@@ -41,8 +41,13 @@ inquirer
       },
       {
         type: 'input',
-        name: 'question',
-        message: 'Any questions you wanna answer?',
+        name: 'email',
+        message: 'What is your Email?',
+      },
+      {
+        type: 'input',
+        name: 'github',
+        message: 'What is you Github address?',
       },
     {
       type: 'list',
@@ -107,7 +112,10 @@ inquirer
 
   ## Questions
 
-  ${data.question}
+  Please reach out if you have questions!
+
+  Email: ${data.email}
+  Github: ${data.github}
     
   ## License
   ${data.license}`
