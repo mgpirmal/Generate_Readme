@@ -3,17 +3,24 @@
 
 
   ## Table of Contents
+
   [Description](#Description)
+
   [Installation](#Installation)
+
   [Usage](#Usage)
+
   [Contributors](#Contributors)
+
   [Tests](#Tests)
+
   [Questions](#Questions)
+
   [License](#License)
 
   ## Description
   
-  This is a demonstration of a generated readme
+  This is a demonstartion of a readme being generated.
     
   ## Installation
     
@@ -22,7 +29,7 @@
     
   ## Usage
     
-  To save time and have a template for future project readmes
+  To save time on future projects
   
     
   ## Contributing
@@ -30,7 +37,7 @@
     
   Please make sure to update tests as appropriate.
 
-  Me, Myself and I
+  Me,Myself and I
 
   ## Tests
 
@@ -41,7 +48,7 @@
   Please reach out if you have questions!
 
   Email: Mgpirmal678@gmail.com
-  Github: github.com/Mgpirmal
+  Github: github.com/mgpirmal
     
   ## License
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
